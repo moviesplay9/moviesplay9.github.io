@@ -24,7 +24,7 @@ license: MIT License
 
 
 # theme variables, change this to make site looks best.
-baseurl: https://moviesplay9.github.io/
+baseurl: https://moviesplay9.github.io
 paginate: 2
 
 

@@ -4,7 +4,7 @@ name: MoviesPLay 9
 desc: Yet another simple theme for Jekyll.
 author:
   name: MoviesPLay 9
-  avatar: //gravatar.com/avatar/daa1cc36ed2ab0d13045d5cd2431cde9?s=320
+  avatar: https://lh3.googleusercontent.com/--PTn2MpIZ5w/AAAAAAAAAAI/AAAAAAAAAAA/APJypA2_h9yREP4A2sEy5Zf3iyDnEkmR7Q/s300-p-rw-no-mo/photo.jpg
   profile: |
     Just another ordinary grad student in computer engineering.
     I'm interest in programming language, algorithm, and mathematics.
@@ -12,13 +12,13 @@ author:
     I live in Chiang Mai or Bangkok, Thailand.
     And you may found me around BarCamp event ;D
   socials:
-    facebook:
+    facebook: //facebook.com/
     twitter: //twitter.com/
-    google-plus:
+    google-plus: //plus.google.com/
     github: //github.com/
     stack-overflow: //stackoverflow.com/
-    instagram:
-    pinterest:
+    instagram: //instagram.com/
+    pinterest: //pinterest.com/
     steam: //steamcommunity.com/
 license: MIT License
 
